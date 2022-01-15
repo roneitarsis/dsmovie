@@ -1,5 +1,5 @@
 import MovieStars from "compontes/MovieStars";
-import { NumericLiteral } from "typescript";
+
 import './styles.css';
 
 
